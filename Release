@@ -1,0 +1,15 @@
+Origin: CJ's Repo
+
+Label: cjbeans
+
+Suite: stable
+
+Version: 1.0
+
+Codename: cjbeans
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: my repo for things i need asap
